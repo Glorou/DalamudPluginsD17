@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/teechep/FATEhelper.git"
-commit = "4390af5c12be69e1e2ea4bd204b2cd9eff72ec6e"
+commit = "d9c40bd646698e118db6d867cda9fb40a52ede6b"
 owners = ["teechep"]
 project_path = "FATEhelper"
-changelog = "added option to display and sort by level"
+changelog = "added distance view and sort option, huge thanks to jade-doggerel on github for this <3"

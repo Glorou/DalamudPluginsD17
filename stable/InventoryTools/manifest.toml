@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "928f5e79a1c4b992fc9b58b09a167ddd3d822657"
+commit = "5a330094a2cbe4af62016353fc515595b60c4f4d"
 owners = [ "Critical-Impact",]
 project_path = "InventoryTools"
-version = "1.14.0.2"
-changelog = "### Added\n- Added a 'More Information' context menu setting for NPCs and Monsters\n- Added a 'Shared Models' panel to the NPC and Monster windows\n- Added 'Amount Owned' to the tooltip inside the imgui windows when hovering items\n- More spawn data added thanks to Tracky(props to Infi)\n### Fixed\n- Certain items were shown as being available on the market even though they aren't"
+version = "1.15.0.9"
+changelog = "### Added\n- Added \"Support Dump\" feature, making it easier for plugin users to provide their logs + config\n- Added a new \"Add From Game\" menu to the Crafts list replacing the \"Add Company Crafts\" button. This currently supports the Company Craft parts menu and the Grand Company Supply/Provision windows.\n### Fixed\n- Fixed a exception being thrown in the crafts window when certain items are added\n### Changed\n- Lumina Supplemental data update"

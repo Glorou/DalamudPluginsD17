@@ -1,11 +1,9 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "80e20ada9d5086d928663092655cf292879cb4d1"
+commit = "c8e9b2ae6c77b874213b6487e7b7a6cf702e7457"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **Config**: Move timer config to its own tab
-- **General**: Add dye icons on gear pieces.
-- **Progress**: Add Valentione 2026.
-- **Timers**: Config option for adding cross mark for unlocked timer instead of emptiness
+- **General**: Fix reset window command
+- **Progress**: Fix Dwarven emote reward Lali-ho to Lali-hop
 """
